@@ -5,7 +5,7 @@ Comprehensive analysis of Olist E-Commerce data focusing on delivery performance
 
 ![Dashboard Preview](assets/dashboard_preview.png)
 
-## 🎯 Key Insights
+## Key Insights
 - **Delivery Performance**: Average delivery time of X days with Y% on-time delivery
 - **Top Products**: Identified 10 best-selling products accounting for Z% of total sales
 - **Seller Revenue**: Top sellers generate R$X million in revenue
