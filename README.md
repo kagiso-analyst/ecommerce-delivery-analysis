@@ -1,6 +1,6 @@
-# 🛒 E-Commerce Delivery & Sales Analysis
+# E-Commerce Delivery & Sales Analysis
 
-## 📊 Project Overview
+## Project Overview
 Comprehensive analysis of Olist E-Commerce data focusing on delivery performance, product sales, seller revenue, and business trends using Python and data visualization.
 
 ![Dashboard Preview](assets/dashboard_preview.png)
